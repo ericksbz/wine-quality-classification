@@ -160,8 +160,8 @@ Feature importance dos modelos baseados em árvore e implicações para a produ�
 ## Como Executar
 
 ### 1. Clone o repositório
-```bash
-git clone https://github.com/seu-usuario/wine-quality-classification.git
+```bash 
+git clone https://github.com/ericksbz/wine-quality-classification.git
 cd wine-quality-classification
 ```
 
